@@ -1,3 +1,4 @@
 shopping
 potato
 tomato
+capsicum
